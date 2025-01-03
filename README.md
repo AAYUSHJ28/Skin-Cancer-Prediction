@@ -25,7 +25,7 @@ The objective of this project is to classify skin lesions into different categor
 * Performance Metrics: Evaluate results using metrics such as accuracy, confusion matrices, and AUC-ROC curves.
 
 
-Dataset link: https://www.kaggle.com/code/blamerx/skin-cancer-classification-densenet121-and-aug/input
+
 ## Results
 
 ### Key Metrics
@@ -43,3 +43,5 @@ Visual representation of the number of samples per class.
 
 * Predicted Images:
 Randomly selected test images with predictions.
+
+Dataset link: https://www.kaggle.com/code/blamerx/skin-cancer-classification-densenet121-and-aug/input
