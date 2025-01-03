@@ -23,3 +23,21 @@ The objective of this project is to classify skin lesions into different categor
 * Modeling: Train a CNN using Keras and TensorFlow.
 
 * Performance Metrics: Evaluate results using metrics such as accuracy, confusion matrices, and AUC-ROC curves.
+
+## Results
+
+### Key Metrics
+
+1. Confusion Matrix: Displays predicted versus true labels for each class.
+
+2. Classification Report: Provides precision, recall, and F1-score for each class.
+
+3. ROC Curve: Visualizes the model's ability to distinguish between classes.
+
+## Sample Outputs
+
+* Class Distribution:
+Visual representation of the number of samples per class.
+
+* Predicted Images:
+Randomly selected test images with predictions.
